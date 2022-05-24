@@ -1,4 +1,4 @@
-- 👋 Hi, call me Turner.
+- 👋 Hi, I'm Denise.
 - 👀 I’m interested in loud music, aesthetics, & world history.
 - 🌱 I’m currently learning fullstack web development.
 - 📫 deniselucilleturner@gmail.com
